@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://progroker.github.io/atom.xml" rel="self"/>
-  <link href="http://progroker.github.io/"/>
-  <updated>2014-12-02T18:11:40-07:00</updated>
-  <id>http://progroker.github.io/</id>
+  <title><![CDATA[ProGroker LLC]]></title>
+  <link href="http://progroker.com/atom.xml" rel="self"/>
+  <link href="http://progroker.com/"/>
+  <updated>2014-12-03T11:20:05-07:00</updated>
+  <id>http://progroker.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[ProGroker LLC]]></name>
+    <email><![CDATA[levi@progroker.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

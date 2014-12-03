@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://progroker.github.io/</loc>
-    <lastmod>2014-12-02T18:11:40-07:00</lastmod>
+    <loc>http://progroker.com/</loc>
+    <lastmod>2014-12-03T11:20:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://progroker.github.io/blog/archives/</loc>
-    <lastmod>2014-12-02T18:11:40-07:00</lastmod>
+    <loc>http://progroker.com/blog/archives/</loc>
+    <lastmod>2014-12-03T11:20:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://progroker.github.io/posts/</loc>
-    <lastmod>2014-12-02T18:11:40-07:00</lastmod>
+    <loc>http://progroker.com/posts/</loc>
+    <lastmod>2014-12-03T11:20:05-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
