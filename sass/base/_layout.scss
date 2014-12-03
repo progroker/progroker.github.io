@@ -4,16 +4,16 @@
   width: 100%;
   background-attachment: scroll;
   background-clip: border-box;
-  background-color: #323232;
-  background-image: url("/images/background.jpg");
+  background-color: #FFFFFF;
+  background-image: url("/images/logo.png");
   background-origin: padding-box;
-  background-position: 0 0;
-  background-repeat: repeat;
-  background-size: cover;
-  margin: 0px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  margin: 20px 0px 0px 0px;
   padding: 200px 0px;
   z-index: -1;
-  height: 550px;
+  height: 194px;
   text-align: center;
   color: white;
 
@@ -36,7 +36,7 @@
 }
 
 .home-page {
-  margin-top: 500px;
+  margin-top: 300px;
 }
 
 .her-row {

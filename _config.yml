@@ -2,12 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://progroker.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://progroker.com
+title: ProGroker LLC
+subtitle: Finely Crafted Software
+author: ProGroker LLC
 simple_search: https://www.google.com/search
-description:
+description: "
+<strong>pro: /proh/</strong> <em>noun.</em> 1. [ORIGIN mid 19th cent.: abbreviation.] professional. 2. [ORIGIN late Middle English: from Latin, literally ‘for, on behalf of.’] an advantage of something or an argument in favor of a course of action. A proponent.</p>
+<p class=\"definition\"><strong>grok: /grok/, var. /grohk/ vt.</strong> [from the novel &#8221;<a href=\"http://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land\">Stranger in a Strange Land</a>&#8221;, by <a href=\"http://en.wikipedia.org/wiki/Robert_A._Heinlein\">Robert A. Heinlein</a>, where it is a Martian word meaning literally `to drink&#8217; and metaphorically `to be one with&#8217;]  The emphatic form is `grok in fullness&#8217;. 1. To understand, usually in a global sense. Connotes intimate and exhaustive knowledge. &#8212; <a href=\"http://www.science.uva.nl/~mes/jargon/t/top-orig.html\">The Jargon File</a> 4.2.0"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +21,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: levi@progroker.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -70,7 +72,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: progroker
 twitter_tweet_button: true
 
 # Google +1
